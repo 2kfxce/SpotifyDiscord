@@ -1,6 +1,6 @@
 {
-  "name": "SpotifyDiscord",
-  "description": "Spotify Theme:3",
+  "name": "SpotifyDiscordAlt",
+  "description": "Spotify Theme Alternative:3",
   "version": "1.0",
   "authors": [
     {
@@ -18,7 +18,7 @@
       "#4f5660"
     ],
     "TEXT_NORMAL": [
-      "#227840",
+      "#ededed",
       "#2e3338"
     ],
     "TEXT_MUTED": [
@@ -50,7 +50,7 @@
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#e0e0e0",
+      "#2e2e2e",
       "#ebedef"
     ],
     "BACKGROUND_TERTIARY": [
